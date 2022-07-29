@@ -13,3 +13,5 @@ Grau:Segundo Período
 Construção de Software para Web Certificado da CISCO(IT Essentials)
 
 Habilidades:  Trabalho em equipe, Comunicativo, Negociador,HTML/CSS
+
+Site do currículo:https://github.com/RaulMatos12/curri.git
